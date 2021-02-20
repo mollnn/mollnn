@@ -10,7 +10,7 @@ Current Focus: CS Courses, XCPC, Graphics, ...
 
 Some Hobbies: (Classical) Music, Film, Reading, Photography, Running (& work out beginner)...
 
-QQ: 1084918073
+Blog: https://www.cnblogs.com/mollnn/
 
 e-mail: 1084918073@qq.com
 
