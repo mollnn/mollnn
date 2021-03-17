@@ -19,3 +19,7 @@ Homepage: http://www.mollnn.com
 Github: https://github.com/mollnn 
 
 Good luck & have fun~
+
+---
+
+![Metrics](https://github.com/mollnn/mollnn/raw/metrics/github-metrics.svg)
