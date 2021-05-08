@@ -4,22 +4,20 @@ id: `mollnn` (or `mollnnfan`)
 
 ---
 
-Current Focus: CS Courses, XCPC, Graphics, ...
+Welcome!
 
-Some Hobbies: (Classical) Music, Film, Reading, Photography, Running (& work out beginner)...
+Hmmm... I don't know what to put here...
+
+Hobbies: Music, Film, Reading, Photography, Running, Work-out...
 
 e-mail: 1084918073@qq.com
 
 Blog: https://www.cnblogs.com/mollnn/
 
-Codeforces: [![](https://cfrating.ihcr.top/?user=mollnn)](https://codeforces.com/profile/mollnn)
+Codeforces: https://codeforces.com/profile/mollnn
 
 Homepage: http://www.mollnn.com
 
 Github: https://github.com/mollnn 
 
-Good luck & have fun~
-
----
-
-![Metrics](https://github.com/mollnn/mollnn/raw/metrics/github-metrics.svg)
+Anyway, GL&HF!
