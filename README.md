@@ -6,7 +6,7 @@ id: `mollnn` (or `mollnnfan`)
 
 Welcome!
 
-I'm Current Learning Computer Science, Multimedia, DIP and Graphics.
+Current Learning: Computer Science, Multimedia, DIP and Graphics.
 
 My Hobbies: Music, Film, Reading, Photography, Jogging, Workout
 
