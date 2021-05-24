@@ -6,18 +6,18 @@ id: `mollnn` (or `mollnnfan`)
 
 Welcome!
 
-Hmmm... I don't know what to put here...
+I'm Current Learning Computer Science, Multimedia, DIP and Graphics.
 
-Hobbies: Music, Film, Reading, Photography, Jogging, Workout...
+My Hobbies: Music, Film, Reading, Photography, Jogging, Workout
 
-e-mail: 1084918073@qq.com
+My e-mail: 1084918073@qq.com
 
-Blog: https://www.cnblogs.com/mollnn/
+My Blog: https://www.cnblogs.com/mollnn/
 
-Codeforces: https://codeforces.com/profile/mollnn
+My Codeforces: https://codeforces.com/profile/mollnn
 
-Homepage: http://www.mollnn.com
+My Homepage: http://www.mollnn.com
 
-Github: https://github.com/mollnn 
+My Github: https://github.com/mollnn 
 
 Anyway, GL&HF!
