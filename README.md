@@ -1,4 +1,4 @@
-Fan Zhimin, an Undergraduate, SEU CS&E 2019-
+Fan Zhimin, Junior at SEU, BSc in Computer Science & Technology
 
 id: `mollnn` (or `mollnnfan`)
 
