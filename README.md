@@ -8,7 +8,7 @@ Welcome!
 
 My Focus: Parallel Computing, Multimedia, Graphics
 
-My Hobbies: Music, Film, Reading, Photography, Jogging, Workout
+My Hobbies: Music, Piano, Film, Reading, Photography, Jogging, Workout
 
 My e-mail: 1084918073@qq.com
 
