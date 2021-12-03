@@ -6,7 +6,7 @@ id: `mollnn` (or `mollnnfan`)
 
 Welcome!
 
-My Focus: Parallel Computing, Graphics, Multimedia
+My Focus: Graphics, Parallel Computing, Multimedia
 
 My Hobbies: Music, Piano, Film, Reading, Photography, Jogging, Workout
 
