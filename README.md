@@ -1,21 +1,16 @@
-Fan Zhimin, Junior at SEU, BSc in Computer Science & Technology
+Fan Zhimin, SEU CSE 2019-
 
-id: `mollnn` (or `mollnnfan`)
+Focus: Rendering, Graphics, Parallel Computing, Deep Learning
 
----
+Hobbies: Music, Piano, Film, Photography, Jogging, Workout
 
-Welcome!
+E-mail: 1084918073@qq.com
 
-My Focus: Rendering, Graphics, Parallel Computing, Deep Learning
+Blog: https://www.cnblogs.com/mollnn/
 
-My Hobbies: Music, Piano, Film, Reading, Photography, Jogging, Workout
+Codeforces: https://codeforces.com/profile/mollnn
 
-My e-mail: 1084918073@qq.com
+Homepage: http://www.mollnn.com
 
-My Blog: https://www.cnblogs.com/mollnn/
+Github: https://github.com/mollnn 
 
-My Codeforces: https://codeforces.com/profile/mollnn
-
-My Homepage: http://www.mollnn.com
-
-My Github: https://github.com/mollnn 
