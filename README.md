@@ -1,4 +1,6 @@
-Fan Zhimin, SEU CSE 2019-
+Fan Zhimin
+
+SEU CSE Bachelor 2019.9-2023.6
 
 Focus: Rendering, Graphics, Parallel Computing, Deep Learning
 
@@ -6,7 +8,7 @@ Hobbies: Music, Piano, Film, Photography, Jogging, Workout
 
 E-mail: 1084918073@qq.com
 
-Blog: https://www.cnblogs.com/mollnn/
+Homepage: http://www.mollnn.com
 
 Codeforces: https://codeforces.com/profile/mollnn
 
