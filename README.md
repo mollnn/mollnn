@@ -4,10 +4,4 @@ Focus: Rendering, Graphics, Parallel Computing, Deep Learning
 
 Hobbies: Music, Piano, Film, Photography, Jogging, Workout
 
-E-mail: 1084918073@qq.com
-
-Homepage: http://www.mollnn.com
-
-Codeforces: https://codeforces.com/profile/mollnn
-
-Github: https://github.com/mollnn 
+[www.mollnn.com](http://www.mollnn.com)		|			[E-mail](1084918073@qq.com)     |   [Codeforces](https://codeforces.com/profile/mollnn)
