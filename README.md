@@ -1,7 +1,7 @@
 | Bio |  |
 |---|---|
-|**Education** | **Southeast University**, B.A. student, Computer Science, 2019.9 - |
-|**Focus** | Physically-based Rendering|
+|**Education** | **Southeast University**, B.A., Computer Science, 2019.9 - |
+|**Focus** | Physically-Based Rendering |
 |**Hobbies** | Music, **Piano**, **Film**, Photography, Animation, **Jogging**, Workout|
 
 
