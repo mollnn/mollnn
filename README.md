@@ -4,4 +4,6 @@ Currently, I work on offline rendering topics related to light transport simulat
 
 In my personal life, I'm a big fan of music (both classical and pop, mainly piano or vocal). Also, I love films, photography, animations, and workout.
 
-Feel free to contact me through [e-mail](mollnn@foxmail.com)
+Feel free to contact me through [e-mail](mollnn@foxmail.com) 
+
+[Research homepage](zhiminfan.work)
