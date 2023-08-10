@@ -6,4 +6,4 @@ In my personal life, I'm a big fan of music (both classical and pop, mainly pian
 
 Feel free to contact me through [e-mail](mollnn@foxmail.com) 
 
-[Research homepage](zhiminfan.work)
+[Research homepage](http://zhiminfan.work)
