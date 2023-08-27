@@ -1,4 +1,4 @@
-I received my bachelor's degree from Southeast University in Nanjing, China, and will move to Nanjing University for graduate study.
+I received my bachelor's degree from Southeast University in 2023 and will move to Nanjing University for M.S. study.
 
 I work on offline rendering topics related to light transport simulation, including specular light transport, path guiding, and differentiable rendering.
 
