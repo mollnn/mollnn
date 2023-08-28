@@ -4,6 +4,6 @@ I work on offline rendering topics related to light transport simulation, includ
 
 [Research homepage](http://zhiminfan.work)
 
-Feel free to contact me through [e-mail](mollnn@foxmail.com) 
+Feel free to contact me through [e-mail](zhiminfan2002@gmail.com) 
 
 
