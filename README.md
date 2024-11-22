@@ -1,6 +1,6 @@
-I am currently pursuing a master's degree at Nanjing University, having completed my bachelor's degree at Southeast University in 2023.
+I am currently a second-year master student degree at Nanjing University. I receive my bachelor's degree at Southeast University in 2023.
 
-I work on offline rendering topics related to light transport simulation, including specular light transport and path guiding.
+I work on offline rendering topics related to advanced light transport simulation.
 
 [Research homepage](http://zhiminfan.work)
 
